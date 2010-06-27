@@ -115,7 +115,7 @@
 
 #pragma mark  -
 
-#ifdef MAC_OS_X_VERSION_10_6
+#ifdef NS_BLOCKS_AVAILABLE
 
 @implementation OCMBlockConstraint
 
